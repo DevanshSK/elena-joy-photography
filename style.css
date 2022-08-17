@@ -462,7 +462,7 @@ footer h4 {
     align-items: center;
   }
   .form-wrapper form{
-    width: 90%;
+    min-width: 90%;
   }
   footer {
     flex-direction: column;
